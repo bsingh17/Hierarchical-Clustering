@@ -1,1 +1,1 @@
-# Hierarichal-Clustering
+# Hierarchical-Clustering
